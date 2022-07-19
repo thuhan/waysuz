@@ -1,19 +1,15 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Waysuz
+# <img src="public/icons/no_zawgyi48.png" width="45" align="left"> Waysuz
 
-My Chrome Extension
+Why are you still using Zawgyi?
 
-## Features
+- It's just a convenient extension for my personal use.
 
-- Feature 1
-- Feature 2
+---
 
-## Install
+## Credit
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
+It uses [Rabbit](https://github.com/Rabbit-Converter) to convert the texts, and I stole most of the code from the Rabbit converter web demo.
+This project wouldn't be possible without Ko Saturn's (and, of course, other contributors') contribution to the community. All hail Saturn God?
 
 ---
 
